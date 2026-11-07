@@ -1,6 +1,6 @@
 {
   "name": "aku-vod-check",
-  "version": "22.0.0",
+  "version": "2.0.0",
   "private": true,
   "description": "아쿠 VOD 체크 - 개인별 상태 저장, SOOP 공통 정보 갱신",
   "scripts": {
